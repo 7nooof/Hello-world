@@ -1,3 +1,3 @@
 # Hello-world
 
-I am trying to laern shring codes and creating repositories 
+I am trying to laern sharing codes and creating repositories 
